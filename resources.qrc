@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="img">
+    <file>gui/img/check_icon.png</file>
+    <file>gui/img/error_icon.png</file>
+    <file>gui/img/escudo.png</file>
+  </qresource>
+</RCC>
